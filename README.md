@@ -8,7 +8,7 @@ Use [OpenAI's CLIP](https://openai.com/blog/clip/) neural network to search insi
 
 1. Download the YouTube video
 2. Extract every N-th frame
-3. Encode all frames using using CLIP
+3. Encode all frames using CLIP
 4. Encode a natural language search query using CLIP
 5. Find the images that best match the search query
 
