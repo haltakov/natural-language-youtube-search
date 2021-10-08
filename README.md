@@ -4,9 +4,9 @@
 
 Use [OpenAI's CLIP](https://openai.com/blog/clip/) neural network to search inside YouTube videos. You can try it by running the [notebook](https://colab.research.google.com/github/haltakov/natural-language-youtube-search/blob/main/natural-language-youtube-search.ipynb) on Google Colab.
 
-#New
+# New
 
-*Integrated to [Huggingface Spaces](https://huggingface.co/spaces) with [Gradio](https://github.com/gradio-app/gradio). See demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/akhaliq/Video_Search_CLIP)
+* Integrated to [Huggingface Spaces](https://huggingface.co/spaces) with [Gradio](https://github.com/gradio-app/gradio). See demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/akhaliq/Video_Search_CLIP)
 
 ## How it works
 
